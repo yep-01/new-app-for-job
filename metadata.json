@@ -1,0 +1,6 @@
+{
+  "name": "CareerNest",
+  "description": "Unlock your career path with mock interviews, professional resume templates, learning modules, and career roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
